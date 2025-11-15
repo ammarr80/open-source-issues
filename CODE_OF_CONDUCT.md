@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in **Moizy Open Source Issues** a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in `**moizy-open-source-issues**` a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
@@ -55,7 +55,7 @@ This Code of Conduct applies **within all project spaces** and venues, including
 - Documentation
 - Mailing lists
 - Online chat channels
-- Any official events or social media associated with **Moizy Open Source Issues**
+- Any official events or social media associated with `**moizy-open-source-issues**`
 
 ---
 
@@ -82,7 +82,7 @@ This Code of Conduct is adapted from the [Contributor Covenant, version 2.1](htt
 
 ---
 
-By participating in **Moizy Open Source Issues**, you agree to uphold this Code of Conduct.
+By participating in `**moizy-open-source-issues**`, you agree to uphold this Code of Conduct.
 
 ✅ Features of this professional file:
 
